@@ -1,0 +1,2 @@
+model_checkpoint_path: "B1e4_R1e-4_D1e3_I1e5.ckpt"
+all_model_checkpoint_paths: "B1e4_R1e-4_D1e3_I1e5.ckpt"
